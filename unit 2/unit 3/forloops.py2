@@ -1,0 +1,40 @@
+ 
+ 
+  
+   
+    def tf ():
+   for x in range (3): 
+   print ('true or false: 3 is greater than 2')
+    answer = input()  
+    if answer != 'true': 
+     print ('wrong try agian ') 
+     print ('attempt:'+str(x)) 
+     else: 
+     print ('great!')
+      break  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      def words(): 
+      for x in range (5): 
+      word = input ("please type in a word : ") 
+      print (word) 
+      if user = 5 words 
+         
+         studentbody = {'a 'b 'c} 
+         presents= []
+         tardy= []
+         absent=[]
+          for student in body :
